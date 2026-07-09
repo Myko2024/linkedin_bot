@@ -1,0 +1,32 @@
+
+=== Level 1: liked the top 5 interesting of 5 loaded posts (5 newly liked) ===
+[ 1] LIKED                        score=8.64  TuxAcademy
+     Understanding AI systems is easier than ever LLM thinks RAG brings knowledge The AI Agent takes action MCP connects everything When these 4 layers work together, they create a complete AI system. The 
+[ 2] LIKED                        score=7.74  Eric A. MBA,PMP,PSM,AWS 2
+     The promise was simple. Brief the AI once. Let it work. Give it a light review. Ten percent in. Eighty the model. Ten the check. That was the pitch. Here is the ratio most clinicians live. Fifty perce
+[ 3] LIKED                        score=7.27  Aliza Z.
+     🔐 𝐃𝐚𝐲 𝟒/𝟏𝟎𝟎 – 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐄𝐯𝐞𝐫𝐲𝐝𝐚𝐲 𝐋𝐢𝐟𝐞 Your ATM card getting swallowed is frustrating… But imagine if it never did. We’ve all had that mini heart attack. You insert your card… The machine f
+[ 4] LIKED                        score=5.42  Oladipupo David
+     Most businesses don't have a lead generation problem. They have a follow-up problem. I've seen companies spend thousands of dollars on ads, websites, and marketing campaigns, only to lose potential cu
+[ 5] LIKED                        score=5.05  Vivian Gonsalves
+     🚀 ServiceNow Business Analyst – Telecom Domain | UK 🇬🇧 Ready to shape the future of Telecom Order Management? We are looking for an experienced ServiceNow Business Analyst with a strong Telecom indust
+
+=== Level 3: drafting comments (NOT posting) for top 3 ===
+
+--- TuxAcademy (score 8.64) ---
+POST:     Understanding AI systems is easier than ever LLM thinks RAG brings knowledge The AI Agent takes action MCP connects everything When these 4 layers work together, they create a complete AI system. The 
+HEADLINE: 9 reactions
+CONTEXT:  Name/title: (21) TuxAcademy: Posts
+DRAFT:    In practice, getting MCP and RAG to play nicely is where things actually break down — what's your approach when retrieved context blows past the context window mid-agent run?
+
+--- Eric A. MBA,PMP,PSM,AWS 2 (score 7.74) ---
+POST:     The promise was simple. Brief the AI once. Let it work. Give it a light review. Ten percent in. Eighty the model. Ten the check. That was the pitch. Here is the ratio most clinicians live. Fifty perce
+HEADLINE: Closing the clinical AI accountability gap inside health systems. Cardiothoracic Surgeon | Applied Research.
+CONTEXT:  Name/title: Eric A. MBA,PMP,PSM,AWS 2
+DRAFT:    The governance/decision owner split makes sense, but in practice those seats often get named *after* the first incident forces the conversation — curious if you've seen health systems proactively define that boundary before go-live or if it's mostly retrospective.
+
+--- Aliza Z. (score 7.27) ---
+POST:     🔐 𝐃𝐚𝐲 𝟒/𝟏𝟎𝟎 – 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐄𝐯𝐞𝐫𝐲𝐝𝐚𝐲 𝐋𝐢𝐟𝐞 Your ATM card getting swallowed is frustrating… But imagine if it never did. We’ve all had that mini heart attack. You insert your card… The machine f
+HEADLINE: Network Security Engineer | Cybersecurity & Networking | B.Eng. Electrical & Electronics Engineering | Helping People Stay Safe Online.
+CONTEXT:  Name/title: Aliza Z.
+DRAFT:    The UX friction of a blocked action is genuinely underrated as a security signal — though I've seen teams gut those friction points under pressure from product because conversion rates dipped.
